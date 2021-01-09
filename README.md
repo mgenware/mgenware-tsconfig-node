@@ -3,6 +3,8 @@
 [![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-node.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-node)
 [![Node.js Version](http://img.shields.io/node/v/mgenware-tsconfig-node.svg?style=flat-square)](https://nodejs.org/en/)
 
+An opinionated tsconfig for node projects.
+
 ## Installation
 
 ```sh
