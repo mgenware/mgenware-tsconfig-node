@@ -7,7 +7,7 @@ An opinionated tsconfig for node projects.
 ## Installation
 
 ```sh
-yarn add mgenware-tsconfig-node -D
+npm i -D mgenware-tsconfig-node
 ```
 
 NOTE: package major version indicates the minimum supported node version.
