@@ -1,6 +1,6 @@
 {
   "name": "mgenware-tsconfig-node",
-  "version": "14.0.2",
+  "version": "14.1.0",
   "description": "An opinionated tsconfig for node projects",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-node",
