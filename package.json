@@ -13,6 +13,9 @@
     "url": "https://github.com/mgenware/mgenware-tsconfig-node"
   },
   "license": "MIT",
+  "scripts": {
+    "test": "node ./validate.js"
+  },
   "dependencies": {
     "@tsconfig/node14": "^1.0.1"
   }
