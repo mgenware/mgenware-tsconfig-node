@@ -1,6 +1,6 @@
 {
   "name": "mgenware-tsconfig-node",
-  "version": "14.2.0",
+  "version": "14.3.0",
   "description": "An opinionated tsconfig for node projects",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-node",
@@ -17,6 +17,6 @@
     "test": "node ./validate.js"
   },
   "dependencies": {
-    "@tsconfig/node14": "^1.0.1"
+    "mgenware-tsconfig-core": "^14.0.0"
   }
 }
