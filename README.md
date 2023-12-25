@@ -1,3 +1,7 @@
+# Deprecated
+
+Use [mgenware-tsconfig-core](https://github.com/mgenware/mgenware-tsconfig-core)
+
 # mgenware-tsconfig-node
 
 [![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-node.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-node)
